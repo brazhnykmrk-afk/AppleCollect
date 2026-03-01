@@ -7,5 +7,5 @@ How to Run:
 2. Istall Pygame
 3. Run
 
-Hi everyone! I am 12 years old, this is my first project on Pygame/Python3 I am also a beginer on GitHub so please don't rate seriously.😅
+Hi everyone! I am 12 years old, this is my second project on Pygame/Python3 I am also a beginer on GitHub so please don't rate seriously.😅
 Thank you!🙏🏻
